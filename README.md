@@ -20,15 +20,15 @@ Analysed 31,650 viewer comments from 521 YouTube channels using GPT-4 and BERTop
 
 ### 🩺 [Medical Cost Analysis: Python & Decision Tree](#) 💊
 Explored factors driving individual medical charges and built a decision tree classifier to predict smoking status with 96% accuracy.  
-`Python` `Scikit-learn` `decision tree` `EDA`
+`Python` `Scikit-learn` `Decision Tree` `EDA`
 
 ### 🚗 [Electric Vehicle Market Analysis: Data Visualisation](#) 🔋
 Cleaned and visualised 6,628 EV records in Tableau, uncovering registration trends and manufacturer performance across Washington State.  
-`Tableau` `data visualisation` `data cleaning`
+`Tableau` `Data Visualisation` `Data Cleaning`
 
 ### 🏦 [Bank Marketing Analytics: Customer Segmentation](#) 💳
 Analysed 4,521 bank client records in Power BI to identify which client profiles are most likely to subscribe to term deposits.  
-`Power BI` `Excel` `customer segmentation`
+`Power BI` `Excel` `Customer Segmentation`
 
 ---
 
