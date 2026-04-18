@@ -19,19 +19,18 @@ Cloud: AWS (S3, Glue, Athena), Docker, Git
 ---
 
 ## 📁 Projects
-
-- **🏃‍♀️ [YouTube Senior Fitness Analytics]()**  
+- **🏃‍♀️ [YouTube Senior Fitness Analytics](https://github.com/ZhengKai-projs/Youtube-Senior-Fitness-Analytics)**  
   Analysed 31,650 viewer comments using GPT-4 and BERTopic to surface content strategy insights for senior fitness creators.  
   `Python` `GPT-4` `BERTopic` `NLP` `YouTube Data API`
 
-- **🏦 [Bank Marketing Analytics]()**  
+- **🏦 [Bank Marketing Analytics](https://github.com/ZhengKai-projs/Bank-Marketing-Analytics-Customer-Segmentation)**  
   Analysed 4,521 bank client records in Power BI to identify high-converting customer segments for term deposit campaigns.  
   `Power BI` `Excel` `Customer Segmentation`
 
-- **🚗 [Electric Vehicle Market Analysis]()**  
+- **🚗 [Electric Vehicle Market Analysis](https://github.com/ZhengKai-projs/Electric-Vehicle-Market-Analysis)**  
   Cleaned and visualised 6,628 EV records in Tableau, uncovering registration trends and manufacturer performance.  
   `Tableau` `Data Visualisation` `Data Cleaning`
 
-- **🩺 [Medical Cost Analysis]()**  
+- **🩺 [Medical Cost Analysis](https://github.com/ZhengKai-projs/Medical-Cost-Analysis)**  
   Explored drivers of individual medical charges and built a decision tree classifier to predict smoking status (96% accuracy).  
   `Python` `Scikit-learn` `Decision Tree` `EDA`
